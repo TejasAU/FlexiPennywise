@@ -4,7 +4,9 @@ import './App.css';
 
 const App = () => {
   return (
-    <h1 className='underline text-3xl'>App</h1>
+    <h1 className='underline text-3xl'>
+      Welcome
+    </h1>
   )
 }
 
